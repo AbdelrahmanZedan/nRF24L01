@@ -27,3 +27,6 @@ Delivering a 2 ready-made functions (one for transmitting and the other for rece
 # Getting Started
 -- you don't have to do any thing only copy the 2 functions on my code to any project and enjoy your wireless communication
 -- you could send and receive integers or chars
+
+# Contact me
+abdelrahman1zedan@gmail.com
