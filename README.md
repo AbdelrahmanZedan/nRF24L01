@@ -29,4 +29,6 @@ Delivering a 2 ready-made functions (one for transmitting and the other for rece
 -- you could send and receive integers or chars
 
 # Contact me
+for any problem or any kind of help with that module of any project of yours I'll be more than happy to help you
+### My Email:
 abdelrahman1zedan@gmail.com
