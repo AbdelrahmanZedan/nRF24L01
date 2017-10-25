@@ -14,7 +14,7 @@ Delivering a 2 ready-made functions (one for transmitting and the other for rece
 *******************************************************************************
 # Pin Connections
 ### you should use this [image](https://img.banggood.com/images/upload/2012/lidanpo/SKU082436z.jpg) to know the numbers of the nRF module pins.
-- **Module --- Arduino**
+- **Module --- Arduino (Uno)**
 - pin 1  --- GND
 - Pin 2  --- 3.3V
 - Pin 3  --- D9
