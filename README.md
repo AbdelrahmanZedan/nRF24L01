@@ -8,9 +8,9 @@ Delivering a 2 ready-made functions (one for transmitting and the other for rece
 - each distribution of arduino has a different SPI pins, so you must know them first.
 - the SPI pins are: MOSI, MISO and SCK.
 - the MISO of the nRF is connected to the MOSI of Arduino and vice versa.
-- finally that module is very sensitive to noise, to avoid any noise you must solder a 10uF Capacitor.
+- that module is very sensitive to noise, to avoid any noise you must solder a 10uF Capacitor.
   close to the power terminals of the module (the VCC and the GND).
-- you must download the [RF24](https://github.com/maniacbug/RF24) library and add its files to the libraries folders of Arduino.
+- finally you must download the [RF24](https://github.com/maniacbug/RF24) library and add its files to the libraries folders of Arduino.
 *******************************************************************************
 # Pin Connections
 ### you should use this [image](https://img.banggood.com/images/upload/2012/lidanpo/SKU082436z.jpg) to know the numbers of the nRF module pins.
@@ -25,8 +25,8 @@ Delivering a 2 ready-made functions (one for transmitting and the other for rece
 - Pin 8  --- nothing(left free)
 *******************************************************************************
 # Getting Started
--- you don't have to do any thing only copy the 2 functions on my code to any project and enjoy your wireless communication
--- you could send and receive integers or chars
+- you don't have to do any thing only copy the 2 functions on my code to any project and enjoy your wireless communication
+- you could send and receive integers or chars
 
 # Contact me
 for any problem or any kind of help with that module of any project of yours I'll be more than happy to help you
